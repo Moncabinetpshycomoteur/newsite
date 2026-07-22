@@ -1,0 +1,24 @@
+<svg width="420" height="120" viewBox="0 0 420 120" xmlns="http://www.w3.org/2000/svg">
+
+<circle cx="55" cy="60" r="45" fill="#eef5f0"></circle>
+
+<path d="M55 95 C55 65 55 45 55 30" stroke="#355c4d" stroke-width="5" fill="none"></path>
+
+<path d="M55 45 C35 25 20 35 25 55" stroke="#7a9b8a" stroke-width="5" fill="none"></path>
+
+<path d="M55 55 C75 35 95 40 85 60" stroke="#7a9b8a" stroke-width="5" fill="none"></path>
+
+<circle cx="55" cy="25" r="8" fill="#c9a96e"></circle>
+
+
+<text x="120" y="55" font-family="Poppins, Arial" font-size="28" font-weight="700" fill="#355c4d">
+Zeliha Özdemir
+</text>
+
+
+<text x="120" y="85" font-family="Poppins, Arial" font-size="18" fill="#7a9b8a">
+Psychomotricienne D.E.
+</text>
+
+
+</svg>
